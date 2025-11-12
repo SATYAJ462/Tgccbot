@@ -1,0 +1,13 @@
+https://api.telegram.org/2002912375:AAE6DkBQetm2e31SNQhp6CNm8A14_3CeK2c/setwebhook?url=https://crazycracks.gamer.gd/index.php
+
+
+Your hosting shold have an active SSL
+Replace your own Domain at WEBSITE
+Replace Your Own Token at TOKEN
+Replace the Locaion of Source at FOLDER
+than open link in any Chrome
+
+
+Get Premium hosting at www.xlinux.info 
+
+Noob Free hosting very slow at 000webhost.com
