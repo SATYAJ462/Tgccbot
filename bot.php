@@ -6,7 +6,7 @@
 
 ini_set("log_errors" , "off");
 flush();
-$API_KEY = '2002912375:AAE6DkBQetm2e31SNQhp6CNm8A14_3CeK2c '; // Your Token
+$API_KEY = '2002912375:AAE6DkBQetm2e31SNQhp6CNm8A14_3CeK2c'; // Your Token
 define('API_KEY',$API_KEY);
 $ADMIN = "1076582988"; //Admin user id
 $kanal = "@CRAZY_GUY_HL_OFFICIAL"; //channel 
